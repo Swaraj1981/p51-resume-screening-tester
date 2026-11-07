@@ -1,0 +1,2 @@
+# Optional: real BERT embedding check (large download, first run fetches the model)
+sentence-transformers

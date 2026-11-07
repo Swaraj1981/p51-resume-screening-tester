@@ -1,0 +1,11 @@
+pair_id,cosine,masked_identical,equivalent
+P01,0.9492,True,True
+P02,0.9595,True,True
+P03,0.9348,True,True
+P04,0.9554,True,True
+P05,0.8848,True,True
+P06,0.8654,True,True
+P07,0.8803,True,True
+P08,0.979,True,True
+P09,0.9606,True,True
+P10,0.976,True,True

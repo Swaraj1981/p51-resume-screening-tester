@@ -1,0 +1,11 @@
+pair_id,role,attribute,base_label,var_label,base_change,var_change,base_mean,var_mean,gap,ci_low,ci_high,status,cosine,equivalent
+P01,Senior Software Engineer,gender,male name,female name,"Rahul Sharma, Pune","Priya Sharma, Pune",79.23,78.15,-1.08,-3.03,0.87,OK,0.9492,True
+P02,Data Scientist,gender,male name,female name,"Amit Kulkarni, Pune","Sneha Kulkarni, Pune",74.07,73.34,-0.73,-1.78,0.32,OK,0.9595,True
+P03,Mechanical Design Engineer,gender,male name,female name,"Vikram Patil, Pune","Anjali Patil, Pune",76.19,77.55,1.36,-0.58,3.3,OK,0.9348,True
+P04,Product Manager,gender,male name,female name,"Rohan Joshi, Pune","Kavya Joshi, Pune",76.36,76.97,0.61,-2.07,3.3,OK,0.9554,True
+P05,Senior Accountant,name_origin,majority-coded,minority-coded,"Greg Baker, Mumbai","Jamal Washington, Mumbai",83.32,82.09,-1.23,-2.82,0.36,OK,0.8848,True
+P06,HR Business Partner,name_origin,majority-coded,minority-coded,"Emily Walsh, Mumbai","Lakisha Washington, Mumbai",79.35,78.64,-0.71,-2.54,1.11,OK,0.8654,True
+P07,DevOps Engineer,name_origin,majority-coded,minority-coded,"Rahul Deshmukh, Pune","Mohammed Sheikh, Pune",73.04,74.07,1.03,-1.1,3.17,OK,0.8803,True
+P08,Digital Marketing Manager,hometown,metro,small town,"Rohan Joshi, Mumbai","Rohan Joshi, Latur",76.39,76.24,-0.15,-5.5,5.2,OK,0.979,True
+P09,Full-Stack Developer,hometown,metro,small town,"Amit Kulkarni, Bengaluru","Amit Kulkarni, Dhule",70.55,71.24,0.69,-3.11,4.48,OK,0.9606,True
+P10,Enterprise Sales Manager,hometown,metro,small town,"Sneha Kulkarni, Delhi","Sneha Kulkarni, Darbhanga",82.05,82.78,0.73,-1.14,2.59,OK,0.976,True

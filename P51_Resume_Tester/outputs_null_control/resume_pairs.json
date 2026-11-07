@@ -1,0 +1,92 @@
+[
+  {
+    "pair_id": "P01",
+    "base_name": "Rahul Sharma",
+    "base_hometown": "Pune",
+    "var_name": "Priya Sharma",
+    "var_hometown": "Pune",
+    "base_text": "Rahul Sharma\nEmail: rahul.sharma@example.com\nHometown: Pune\n\nPROFESSIONAL SUMMARY\nSenior Software Engineer with 7 years of experience delivering measurable results.\n\nSKILLS\nPython, Go, Kubernetes, PostgreSQL, AWS, System design\n\nKEY ACHIEVEMENTS\n- Led migration of a monolith to 12 services, cutting deploy time from 3 hours to 15 minutes.\n- Reduced p99 API latency by 42% through query and cache redesign.\n- Mentored 5 engineers; 3 promoted within 18 months.\n\nEDUCATION\nB.E. Computer Engineering, College of Engineering Pune, CGPA 8.6/10",
+    "var_text": "Priya Sharma\nEmail: priya.sharma@example.com\nHometown: Pune\n\nPROFESSIONAL SUMMARY\nSenior Software Engineer with 7 years of experience delivering measurable results.\n\nSKILLS\nPython, Go, Kubernetes, PostgreSQL, AWS, System design\n\nKEY ACHIEVEMENTS\n- Led migration of a monolith to 12 services, cutting deploy time from 3 hours to 15 minutes.\n- Reduced p99 API latency by 42% through query and cache redesign.\n- Mentored 5 engineers; 3 promoted within 18 months.\n\nEDUCATION\nB.E. Computer Engineering, College of Engineering Pune, CGPA 8.6/10"
+  },
+  {
+    "pair_id": "P02",
+    "base_name": "Amit Kulkarni",
+    "base_hometown": "Pune",
+    "var_name": "Sneha Kulkarni",
+    "var_hometown": "Pune",
+    "base_text": "Amit Kulkarni\nEmail: amit.kulkarni@example.com\nHometown: Pune\n\nPROFESSIONAL SUMMARY\nData Scientist with 5 years of experience delivering measurable results.\n\nSKILLS\nPython, SQL, PyTorch, Experiment design, MLOps, Statistics\n\nKEY ACHIEVEMENTS\n- Built churn model (AUC 0.87) that saved an estimated Rs 4.2 crore annually.\n- Designed A/B testing framework used by 9 product teams.\n- Deployed 6 models to production with automated monitoring.\n\nEDUCATION\nM.Sc. Statistics, Savitribai Phule Pune University",
+    "var_text": "Sneha Kulkarni\nEmail: sneha.kulkarni@example.com\nHometown: Pune\n\nPROFESSIONAL SUMMARY\nData Scientist with 5 years of experience delivering measurable results.\n\nSKILLS\nPython, SQL, PyTorch, Experiment design, MLOps, Statistics\n\nKEY ACHIEVEMENTS\n- Built churn model (AUC 0.87) that saved an estimated Rs 4.2 crore annually.\n- Designed A/B testing framework used by 9 product teams.\n- Deployed 6 models to production with automated monitoring.\n\nEDUCATION\nM.Sc. Statistics, Savitribai Phule Pune University"
+  },
+  {
+    "pair_id": "P03",
+    "base_name": "Vikram Patil",
+    "base_hometown": "Pune",
+    "var_name": "Anjali Patil",
+    "var_hometown": "Pune",
+    "base_text": "Vikram Patil\nEmail: vikram.patil@example.com\nHometown: Pune\n\nPROFESSIONAL SUMMARY\nMechanical Design Engineer with 6 years of experience delivering measurable results.\n\nSKILLS\nSolidWorks, FEA (ANSYS), GD&T, DFM, Lean manufacturing, CAD\n\nKEY ACHIEVEMENTS\n- Redesigned bracket assembly, reducing material cost by 18% with no loss in strength.\n- Led FEA validation for 14 product variants.\n- Cut prototype iteration cycle from 6 weeks to 3.\n\nEDUCATION\nB.Tech Mechanical Engineering, VJTI Mumbai, CGPA 8.2/10",
+    "var_text": "Anjali Patil\nEmail: anjali.patil@example.com\nHometown: Pune\n\nPROFESSIONAL SUMMARY\nMechanical Design Engineer with 6 years of experience delivering measurable results.\n\nSKILLS\nSolidWorks, FEA (ANSYS), GD&T, DFM, Lean manufacturing, CAD\n\nKEY ACHIEVEMENTS\n- Redesigned bracket assembly, reducing material cost by 18% with no loss in strength.\n- Led FEA validation for 14 product variants.\n- Cut prototype iteration cycle from 6 weeks to 3.\n\nEDUCATION\nB.Tech Mechanical Engineering, VJTI Mumbai, CGPA 8.2/10"
+  },
+  {
+    "pair_id": "P04",
+    "base_name": "Rohan Joshi",
+    "base_hometown": "Pune",
+    "var_name": "Kavya Joshi",
+    "var_hometown": "Pune",
+    "base_text": "Rohan Joshi\nEmail: rohan.joshi@example.com\nHometown: Pune\n\nPROFESSIONAL SUMMARY\nProduct Manager with 6 years of experience delivering measurable results.\n\nSKILLS\nRoadmapping, User research, SQL, A/B testing, Stakeholder management, Agile\n\nKEY ACHIEVEMENTS\n- Launched self-serve onboarding that lifted activation from 31% to 49%.\n- Owned a Rs 12 crore ARR product line across 4 engineering squads.\n- Ran 40+ customer interviews to reshape the Q3 roadmap.\n\nEDUCATION\nMBA, Symbiosis Institute of Business Management; B.Com, Fergusson College",
+    "var_text": "Kavya Joshi\nEmail: kavya.joshi@example.com\nHometown: Pune\n\nPROFESSIONAL SUMMARY\nProduct Manager with 6 years of experience delivering measurable results.\n\nSKILLS\nRoadmapping, User research, SQL, A/B testing, Stakeholder management, Agile\n\nKEY ACHIEVEMENTS\n- Launched self-serve onboarding that lifted activation from 31% to 49%.\n- Owned a Rs 12 crore ARR product line across 4 engineering squads.\n- Ran 40+ customer interviews to reshape the Q3 roadmap.\n\nEDUCATION\nMBA, Symbiosis Institute of Business Management; B.Com, Fergusson College"
+  },
+  {
+    "pair_id": "P05",
+    "base_name": "Greg Baker",
+    "base_hometown": "Mumbai",
+    "var_name": "Jamal Washington",
+    "var_hometown": "Mumbai",
+    "base_text": "Greg Baker\nEmail: greg.baker@example.com\nHometown: Mumbai\n\nPROFESSIONAL SUMMARY\nSenior Accountant with 8 years of experience delivering measurable results.\n\nSKILLS\nIFRS, Tally, SAP FICO, GST compliance, Audit coordination, Excel\n\nKEY ACHIEVEMENTS\n- Closed month-end books 3 days faster after process redesign.\n- Led statutory audit with zero major findings for 3 consecutive years.\n- Automated 70% of reconciliations using Excel and SAP macros.\n\nEDUCATION\nB.Com, M.Com; Chartered Accountant (ICAI)",
+    "var_text": "Jamal Washington\nEmail: jamal.washington@example.com\nHometown: Mumbai\n\nPROFESSIONAL SUMMARY\nSenior Accountant with 8 years of experience delivering measurable results.\n\nSKILLS\nIFRS, Tally, SAP FICO, GST compliance, Audit coordination, Excel\n\nKEY ACHIEVEMENTS\n- Closed month-end books 3 days faster after process redesign.\n- Led statutory audit with zero major findings for 3 consecutive years.\n- Automated 70% of reconciliations using Excel and SAP macros.\n\nEDUCATION\nB.Com, M.Com; Chartered Accountant (ICAI)"
+  },
+  {
+    "pair_id": "P06",
+    "base_name": "Emily Walsh",
+    "base_hometown": "Mumbai",
+    "var_name": "Lakisha Washington",
+    "var_hometown": "Mumbai",
+    "base_text": "Emily Walsh\nEmail: emily.walsh@example.com\nHometown: Mumbai\n\nPROFESSIONAL SUMMARY\nHR Business Partner with 7 years of experience delivering measurable results.\n\nSKILLS\nTalent acquisition, Employee relations, HRIS (Workday), Compensation design, Labour law, Coaching\n\nKEY ACHIEVEMENTS\n- Reduced attrition from 22% to 14% in two years.\n- Designed leveling framework adopted across 1,200 employees.\n- Cut average time-to-hire from 52 to 34 days.\n\nEDUCATION\nMBA (HR), Tata Institute of Social Sciences",
+    "var_text": "Lakisha Washington\nEmail: lakisha.washington@example.com\nHometown: Mumbai\n\nPROFESSIONAL SUMMARY\nHR Business Partner with 7 years of experience delivering measurable results.\n\nSKILLS\nTalent acquisition, Employee relations, HRIS (Workday), Compensation design, Labour law, Coaching\n\nKEY ACHIEVEMENTS\n- Reduced attrition from 22% to 14% in two years.\n- Designed leveling framework adopted across 1,200 employees.\n- Cut average time-to-hire from 52 to 34 days.\n\nEDUCATION\nMBA (HR), Tata Institute of Social Sciences"
+  },
+  {
+    "pair_id": "P07",
+    "base_name": "Rahul Deshmukh",
+    "base_hometown": "Pune",
+    "var_name": "Mohammed Sheikh",
+    "var_hometown": "Pune",
+    "base_text": "Rahul Deshmukh\nEmail: rahul.deshmukh@example.com\nHometown: Pune\n\nPROFESSIONAL SUMMARY\nDevOps Engineer with 5 years of experience delivering measurable results.\n\nSKILLS\nTerraform, Kubernetes, CI/CD (GitHub Actions), Prometheus, Linux, AWS\n\nKEY ACHIEVEMENTS\n- Moved infrastructure to Terraform, eliminating configuration drift across 3 environments.\n- Improved uptime from 99.5% to 99.95%.\n- Built self-service pipelines used by 60 developers.\n\nEDUCATION\nB.E. Information Technology, Pune Institute of Computer Technology",
+    "var_text": "Mohammed Sheikh\nEmail: mohammed.sheikh@example.com\nHometown: Pune\n\nPROFESSIONAL SUMMARY\nDevOps Engineer with 5 years of experience delivering measurable results.\n\nSKILLS\nTerraform, Kubernetes, CI/CD (GitHub Actions), Prometheus, Linux, AWS\n\nKEY ACHIEVEMENTS\n- Moved infrastructure to Terraform, eliminating configuration drift across 3 environments.\n- Improved uptime from 99.5% to 99.95%.\n- Built self-service pipelines used by 60 developers.\n\nEDUCATION\nB.E. Information Technology, Pune Institute of Computer Technology"
+  },
+  {
+    "pair_id": "P08",
+    "base_name": "Rohan Joshi",
+    "base_hometown": "Mumbai",
+    "var_name": "Rohan Joshi",
+    "var_hometown": "Latur",
+    "base_text": "Rohan Joshi\nEmail: rohan.joshi@example.com\nHometown: Mumbai\n\nPROFESSIONAL SUMMARY\nDigital Marketing Manager with 6 years of experience delivering measurable results.\n\nSKILLS\nSEO/SEM, Paid media, Analytics (GA4), Content strategy, CRM automation, Budgeting\n\nKEY ACHIEVEMENTS\n- Grew organic traffic 180% in 12 months.\n- Managed Rs 3 crore annual paid media budget at 3.4x ROAS.\n- Led a team of 6 across content and performance.\n\nEDUCATION\nMBA (Marketing), NMIMS; B.A. Mass Media",
+    "var_text": "Rohan Joshi\nEmail: rohan.joshi@example.com\nHometown: Latur\n\nPROFESSIONAL SUMMARY\nDigital Marketing Manager with 6 years of experience delivering measurable results.\n\nSKILLS\nSEO/SEM, Paid media, Analytics (GA4), Content strategy, CRM automation, Budgeting\n\nKEY ACHIEVEMENTS\n- Grew organic traffic 180% in 12 months.\n- Managed Rs 3 crore annual paid media budget at 3.4x ROAS.\n- Led a team of 6 across content and performance.\n\nEDUCATION\nMBA (Marketing), NMIMS; B.A. Mass Media"
+  },
+  {
+    "pair_id": "P09",
+    "base_name": "Amit Kulkarni",
+    "base_hometown": "Bengaluru",
+    "var_name": "Amit Kulkarni",
+    "var_hometown": "Dhule",
+    "base_text": "Amit Kulkarni\nEmail: amit.kulkarni@example.com\nHometown: Bengaluru\n\nPROFESSIONAL SUMMARY\nFull-Stack Developer with 4 years of experience delivering measurable results.\n\nSKILLS\nTypeScript, React, Node.js, PostgreSQL, Docker, Testing\n\nKEY ACHIEVEMENTS\n- Shipped a checkout redesign that raised conversion by 11%.\n- Introduced integration testing; production bugs down 35%.\n- Built an internal admin tool adopted by 4 teams.\n\nEDUCATION\nB.Tech Computer Science, VIT Vellore, CGPA 8.4/10",
+    "var_text": "Amit Kulkarni\nEmail: amit.kulkarni@example.com\nHometown: Dhule\n\nPROFESSIONAL SUMMARY\nFull-Stack Developer with 4 years of experience delivering measurable results.\n\nSKILLS\nTypeScript, React, Node.js, PostgreSQL, Docker, Testing\n\nKEY ACHIEVEMENTS\n- Shipped a checkout redesign that raised conversion by 11%.\n- Introduced integration testing; production bugs down 35%.\n- Built an internal admin tool adopted by 4 teams.\n\nEDUCATION\nB.Tech Computer Science, VIT Vellore, CGPA 8.4/10"
+  },
+  {
+    "pair_id": "P10",
+    "base_name": "Sneha Kulkarni",
+    "base_hometown": "Delhi",
+    "var_name": "Sneha Kulkarni",
+    "var_hometown": "Darbhanga",
+    "base_text": "Sneha Kulkarni\nEmail: sneha.kulkarni@example.com\nHometown: Delhi\n\nPROFESSIONAL SUMMARY\nEnterprise Sales Manager with 8 years of experience delivering measurable results.\n\nSKILLS\nEnterprise B2B sales, Negotiation, Salesforce, Forecasting, Account planning, Channel partners\n\nKEY ACHIEVEMENTS\n- Exceeded annual quota by 124% for two consecutive years.\n- Closed the largest deal in company history (Rs 9 crore).\n- Built a partner channel generating 25% of new pipeline.\n\nEDUCATION\nMBA, Welingkar Institute; B.Sc., Delhi University",
+    "var_text": "Sneha Kulkarni\nEmail: sneha.kulkarni@example.com\nHometown: Darbhanga\n\nPROFESSIONAL SUMMARY\nEnterprise Sales Manager with 8 years of experience delivering measurable results.\n\nSKILLS\nEnterprise B2B sales, Negotiation, Salesforce, Forecasting, Account planning, Channel partners\n\nKEY ACHIEVEMENTS\n- Exceeded annual quota by 124% for two consecutive years.\n- Closed the largest deal in company history (Rs 9 crore).\n- Built a partner channel generating 25% of new pipeline.\n\nEDUCATION\nMBA, Welingkar Institute; B.Sc., Delhi University"
+  }
+]
